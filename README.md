@@ -13,6 +13,6 @@ and place sox.exe and all *.dll files which come with it to folder with soundrea
 
 # Download binary release
 
-You can get builded release here: http://brullworfel.ru/progs/soundreaver-1.0.0.1.zip
+You can get builded releases here: https://github.com/Brullworfel/SoundReaver/releases
 
 Everything you need is included, except for *.smf files (read the instructions).
